@@ -1,10 +1,10 @@
-# 2-Video-Subtitles-merge-srt-
+# Video-Subtitles-merge
 
-> before merge chinese
+> before merge chinese subtitle
 
 ![](https://github.com/mryeshilin/2-Video-Subtitles-merge-srt-/blob/master/chs.png)
 
-> before merge englisg
+> before merge english subtitle
 
 ![](https://github.com/mryeshilin/2-Video-Subtitles-merge-srt-/blob/master/eng.png)
 
